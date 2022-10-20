@@ -1,7 +1,7 @@
 # AD_EnvironementalImpact
 Environmental impact of the aerospace manufacturing sector
 
-![Schema](ATRI01_SchémaExplicatifArticle_GlobalEnvironmentalMappingOfTheAeronauticsManufacturingSector_EPierrat.jpg)
+![Schema](images/ATRI01_SchémaExplicatifArticle_GlobalEnvironmentalMappingOfTheAeronauticsManufacturingSector_EPierrat.jpg)
 
 
 

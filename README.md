@@ -15,3 +15,6 @@ R. ZUPPO
 This micro learning is the result of a student project led by Clement Atin, Stanislas Dura, Aymeric Lasserre, Bleuenn Roiron and Romain Zuppo, third-year ISAE-SUPAERO students (2021-2022) supervised by Prof. Joseph Morlier (DMSM) and Prof. Elise Vareilles (DISC). This work has been supported by the Sustainable Aircraft Design project (ATRI-SAD).
 
 https://microlearning.groupe-isae.fr/nugget/4530ea46-9f08-4230-8f5f-fd1570ccc69f/view
+
+Based on the work of Eleonore Pierrat @DTU
+https://www.sciencedirect.com/science/article/pii/S0959652621008234
